@@ -1,0 +1,7 @@
+packages:
+  - runtime/*
+  - packages/*
+  - playground
+onlyBuiltDependencies:
+  - esbuild
+  - simple-git-hooks
